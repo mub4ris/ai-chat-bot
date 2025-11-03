@@ -8,7 +8,6 @@ It integrates with OpenAI’s API to deliver intelligent and conversational resp
 ## 🚀 Features
 
 - 💬 Real-time chat interface powered by OpenAI
-- ⚡ Fast dev server using [Bun](https://bun.sh)
 - 🧠 Express backend API for secure OpenAI calls
 - 🌈 Modern React UI with responsive design
 
